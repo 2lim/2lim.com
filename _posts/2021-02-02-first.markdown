@@ -1,0 +1,12 @@
+---
+layout: post
+title: 나의 첫번쨰 게시글
+date: 2021-02-02 11:36:00 +0300
+description: 저의 첫번째 게시글입니다
+img: i-rest.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Holidays, Hawaii]
+---
+안녕 나의 첫게시글
+
+## Hello, my first post
